@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robots-project/static/css/main.79ad66f8.chunk.css",
+    "main.js": "/robots-project/static/js/main.1aaf412c.chunk.js",
+    "main.js.map": "/robots-project/static/js/main.1aaf412c.chunk.js.map",
+    "runtime-main.js": "/robots-project/static/js/runtime-main.80ba7dd1.js",
+    "runtime-main.js.map": "/robots-project/static/js/runtime-main.80ba7dd1.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robots-project/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js": "/robots-project/static/js/2.f9f5aa27.chunk.js",
+    "static/js/2.f9f5aa27.chunk.js.map": "/robots-project/static/js/2.f9f5aa27.chunk.js.map",
+    "index.html": "/robots-project/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robots-project/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.79ad66f8.chunk.css.map": "/robots-project/static/css/main.79ad66f8.chunk.css.map",
+    "static/js/2.f9f5aa27.chunk.js.LICENSE.txt": "/robots-project/static/js/2.f9f5aa27.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robots-project/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80ba7dd1.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f9f5aa27.chunk.js",
+    "static/css/main.79ad66f8.chunk.css",
+    "static/js/main.1aaf412c.chunk.js"
+  ]
+}
